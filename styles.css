@@ -1,0 +1,11 @@
+/* Place your CSS styles in this file */
+body{background-color: greenyellow;}
+h1 { 
+ 
+ ul {list-style-type: none;}
+ li {display: inline;}
+ li {background-color: lightcyan;}
+    text-align: center;
+    font-family: "times new roman", sans-serif;
+    font-weight: normal;
+    font-size: large}
